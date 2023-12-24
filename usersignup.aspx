@@ -10,7 +10,7 @@
                   <div class="row">
                      <div class="col">
                         <center>
-                           <img width="100px" src="imgs/generaluser.png"/>
+                           <img width="100" src="imgs/generaluser.png"/>
                         </center>
                      </div>
                   </div>
@@ -28,7 +28,7 @@
                      </div>
                   </div>
 
-                   <div class="row">
+                   <div class="row mb-4 mt-3">
                        <div class="col-md-6">
                             <label>Full Name:</label>
                             <div class="form-group">
@@ -43,7 +43,7 @@
                      </div>
                   </div>
 
-                   <div class="row">
+                   <div class="row mb-4 mt-3">
                        <div class="col-md-6">
                             <label>Contact Number:</label>
                             <div class="form-group">
@@ -58,7 +58,7 @@
                      </div>
                   </div>
 
-                <div class="row">
+                <div class="row mb-4 mt-3">
                        <div class="col-md-4">
                             <label>State:</label>
                             <div class="form-group">
@@ -104,7 +104,7 @@
                             </div>
                      </div>
                   </div>
-                   <div class="row">
+                   <div class="row mb-4 mt-3">
                      <div class="col">
                         <label>Full Address</label>
                         <div class="form-group">
@@ -113,7 +113,7 @@
                      </div>
                   </div>
 
-                <div class="row">
+                <div class="row mb-4 mt-3">
                      <div class="col">
                          <center>
                              <h4>
@@ -123,7 +123,7 @@
                      </div>
                   </div>
                  
-                <div class="row">
+                <div class="row mb-4 mt-3">
                        <div class="col-md-6">
                             <label>User ID:</label>
                             <div class="form-group">
@@ -137,7 +137,7 @@
                             </div>
                      </div>
                   </div>
-                <div class="row">
+                <div class="row mb-4 mt-3">
                      <div class="col">
                         <div class="form-group">
                             <asp:Button Class="btn btn-success btn-block btn-lg" ID="Button1"  runat="server" Text="Sign Up" OnClick="Button1_Click" />
