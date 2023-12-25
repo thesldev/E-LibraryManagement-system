@@ -98,7 +98,7 @@ namespace E_LibraryManagement_system
 
         protected void LinkButton10_Click(object sender, EventArgs e)
         {
-            Response.Redirect("adminmembermanagement.aspx");
+            Response.Redirect("adminusermanagement.aspx");
         }
 
         protected void LinkButton4_Click(object sender, EventArgs e)
