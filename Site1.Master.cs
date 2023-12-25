@@ -78,7 +78,7 @@ namespace E_LibraryManagement_system
 
         protected void LinkButton11_Click(object sender, EventArgs e)
         {
-            Response.Redirect("adminauthormanagement.aspx");
+            Response.Redirect("adminauthermanagement.aspx");
         }
 
         protected void LinkButton12_Click(object sender, EventArgs e)
